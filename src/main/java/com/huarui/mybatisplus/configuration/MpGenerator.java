@@ -18,7 +18,6 @@ import com.baomidou.mybatisplus.generator.engine.FreemarkerTemplateEngine;
  */
 public class MpGenerator {
 
-
     public static void main(String[] args) {
         //1. 全局配置
         GlobalConfig config = new GlobalConfig();
@@ -48,7 +47,7 @@ public class MpGenerator {
                 .setDbColumnUnderline(true)  // 指定表名 字段名是否使用下划线
                 .setNaming(NamingStrategy.underline_to_camel) // 数据库表映射到实体的命名策略
                 .setTablePrefix("tbl_")
-                .setInclude(new String[] { "tbl_employee"});  // 生成的表
+                .setInclude(new String[] { "tbl_user"});  // 生成的表
 
         //4. 包名策略配置
         PackageConfig pkConfig = new PackageConfig();

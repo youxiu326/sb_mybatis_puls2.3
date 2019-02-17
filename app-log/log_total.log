@@ -208,3 +208,63 @@
 2019-02-17 13:09:42.812  INFO 17884 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
 2019-02-17 13:09:42.813  INFO 17884 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
 2019-02-17 13:09:43.375  INFO 17884 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-02-17 15:54:00.524  INFO 16988 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-57PAQ74 with PID 16988 (started by lihui in D:\sortware\IDEA\package\sb_mybatis_puls2.3)
+2019-02-17 15:54:00.527  INFO 16988 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-02-17 15:54:01.425  WARN 16988 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-02-17 15:54:02.357  INFO 16988 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-02-17 15:54:03.658  INFO 16988 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-02-17 15:54:04.639  INFO 16988 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:54:05.121  INFO 16988 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 5.602 seconds (JVM running for 6.686)
+2019-02-17 15:54:05.781  INFO 16988 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:54:05.784  INFO 16988 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-02-17 15:54:06.301  INFO 16988 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-02-17 15:54:45.079  INFO 1800 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-57PAQ74 with PID 1800 (started by lihui in D:\sortware\IDEA\package\sb_mybatis_puls2.3)
+2019-02-17 15:54:45.081  INFO 1800 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-02-17 15:54:46.013  WARN 1800 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-02-17 15:54:46.890  INFO 1800 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-02-17 15:54:48.137  INFO 1800 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-02-17 15:54:48.964  INFO 1800 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:54:50.044  INFO 1800 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 5.998 seconds (JVM running for 7.359)
+2019-02-17 15:54:51.139  INFO 1800 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:54:51.142  INFO 1800 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-02-17 15:54:51.379  INFO 1800 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-02-17 15:54:54.278  INFO 19464 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-57PAQ74 with PID 19464 (started by lihui in D:\sortware\IDEA\package\sb_mybatis_puls2.3)
+2019-02-17 15:54:54.280  INFO 19464 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-02-17 15:54:55.167  WARN 19464 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-02-17 15:54:56.070  INFO 19464 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-02-17 15:54:57.275  INFO 19464 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-02-17 15:54:58.091  INFO 19464 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:54:58.585  INFO 19464 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 5.455 seconds (JVM running for 6.728)
+2019-02-17 15:54:59.167  INFO 19464 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:54:59.169  INFO 19464 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-02-17 15:54:59.288  INFO 19464 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-02-17 15:55:32.392  INFO 15952 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-57PAQ74 with PID 15952 (started by lihui in D:\sortware\IDEA\package\sb_mybatis_puls2.3)
+2019-02-17 15:55:32.394  INFO 15952 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-02-17 15:55:33.271  WARN 15952 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-02-17 15:55:34.138  INFO 15952 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-02-17 15:55:35.391  INFO 15952 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-02-17 15:55:36.307  INFO 15952 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:55:36.774  INFO 15952 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 5.51 seconds (JVM running for 6.592)
+2019-02-17 15:55:37.322  INFO 15952 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:55:37.324  INFO 15952 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-02-17 15:55:37.392  INFO 15952 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-02-17 15:56:28.176  INFO 6976 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-57PAQ74 with PID 6976 (started by lihui in D:\sortware\IDEA\package\sb_mybatis_puls2.3)
+2019-02-17 15:56:28.178  INFO 6976 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-02-17 15:56:29.044  WARN 6976 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-02-17 15:56:29.874  INFO 6976 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-02-17 15:56:31.072  INFO 6976 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-02-17 15:56:31.950  INFO 6976 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:56:32.521  INFO 6976 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 5.457 seconds (JVM running for 6.5)
+2019-02-17 15:56:33.045  INFO 6976 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:56:33.047  INFO 6976 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-02-17 15:56:33.666  INFO 6976 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-02-17 15:58:46.211  INFO 19976 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-57PAQ74 with PID 19976 (started by lihui in D:\sortware\IDEA\package\sb_mybatis_puls2.3)
+2019-02-17 15:58:46.213  INFO 19976 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-02-17 15:58:47.089  WARN 19976 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-02-17 15:58:48.140  INFO 19976 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-02-17 15:58:49.441  INFO 19976 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-02-17 15:58:50.403  INFO 19976 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:58:50.951  INFO 19976 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 5.599 seconds (JVM running for 7.052)
+2019-02-17 15:58:51.781  INFO 19976 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-17 15:58:51.784  INFO 19976 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-02-17 15:58:51.972  INFO 19976 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
