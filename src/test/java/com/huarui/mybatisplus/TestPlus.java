@@ -89,8 +89,18 @@ public class TestPlus {
 
         //将查询的结果封装到page对象中
         page.setRecords(emps);
+    }
 
+    /**
+     * 测试 注入自定义sql
+     */
+    @Test
+    public void testMySqlInjector() {
 
+        int result = employeeMapper.deleteAll();
+        System.out.println("===========");
+        System.out.println(result);
+        System.out.println("===========");
     }
 
 }

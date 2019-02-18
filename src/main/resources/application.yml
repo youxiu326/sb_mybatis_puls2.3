@@ -2,8 +2,6 @@ server:
   port: 8080
 
 
-
-
 #mysql
 spring:
   datasource:
@@ -37,7 +35,8 @@ mybatis-plus:
     #逻辑删除配置（下面3个配置）
     logic-delete-value: -1
     logic-not-delete-value: 1
-    sql-injector: com.baomidou.mybatisplus.mapper.LogicSqlInjector
+    #注入自定义SQL
+    sql-injector: com.huarui.mybatisplus.configuration.MySqlInjector
     #自定义填充策略接口实现
     meta-object-handler: com.huarui.mybatisplus.configuration.MyMetaObjectHandler
   configuration:

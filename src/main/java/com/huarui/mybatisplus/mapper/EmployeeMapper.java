@@ -13,4 +13,8 @@ import com.baomidou.mybatisplus.mapper.BaseMapper;
  */
 public interface EmployeeMapper extends BaseMapper<Employee> {
 
+    /**
+     * 自定义注入方法
+     */
+    int deleteAll();
 }
