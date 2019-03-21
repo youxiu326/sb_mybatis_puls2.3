@@ -51,6 +51,7 @@ public class Employee extends Model<Employee> {
 
     /**
      * 乐观锁版本号
+     *  仅支持int,Integer,long,Long,Date,Timestamp
      */
     @Version
     private Integer version;

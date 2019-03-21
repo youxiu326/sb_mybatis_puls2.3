@@ -8,3 +8,192 @@
 2019-02-18 15:54:09.960  INFO 18204 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
 2019-02-18 15:54:09.964  INFO 18204 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
 2019-02-18 15:54:10.236  INFO 18204 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 18:40:27.155  INFO 17608 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-KPACNRR with PID 17608 (started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 18:40:27.159  INFO 17608 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-03-21 18:40:28.132  WARN 17608 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 18:40:28.971  INFO 17608 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 18:40:30.094  INFO 17608 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 18:40:30.872  INFO 17608 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:40:31.263  INFO 17608 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 4.787 seconds (JVM running for 5.865)
+2019-03-21 18:40:31.701  INFO 17608 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:40:31.705  INFO 17608 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 18:40:31.876  INFO 17608 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 18:41:48.801  INFO 5612 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-KPACNRR with PID 5612 (started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 18:41:48.803  INFO 5612 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-03-21 18:41:49.900  WARN 5612 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 18:41:50.703  INFO 5612 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 18:41:51.708  INFO 5612 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 18:41:52.456  INFO 5612 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:41:53.080  INFO 5612 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 4.907 seconds (JVM running for 5.779)
+2019-03-21 18:41:53.504  INFO 5612 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:41:53.506  INFO 5612 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 18:41:53.868  INFO 5612 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 18:41:56.595  INFO 8932 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-KPACNRR with PID 8932 (started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 18:41:56.596  INFO 8932 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-03-21 18:41:57.564  WARN 8932 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 18:41:58.398  INFO 8932 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 18:41:59.902  INFO 8932 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 18:42:00.753  INFO 8932 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:42:01.331  INFO 8932 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 5.477 seconds (JVM running for 6.678)
+2019-03-21 18:42:11.406  INFO 8932 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:42:11.410  INFO 8932 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 18:42:11.669  INFO 8932 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 18:44:09.237  INFO 22052 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-KPACNRR with PID 22052 (started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 18:44:09.238  INFO 22052 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-03-21 18:44:10.007  WARN 22052 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 18:44:10.710  INFO 22052 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 18:44:11.738  INFO 22052 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 18:44:12.433  INFO 22052 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:44:12.784  INFO 22052 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 4.263 seconds (JVM running for 5.139)
+2019-03-21 18:44:13.225  INFO 22052 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:44:13.228  INFO 22052 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 18:44:13.365  INFO 22052 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 18:47:20.619  INFO 21476 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-KPACNRR with PID 21476 (started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 18:47:20.621  INFO 21476 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-03-21 18:47:21.260  WARN 21476 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 18:47:21.984  INFO 21476 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 18:47:22.959  INFO 21476 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 18:47:23.638  INFO 21476 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:47:24.010  INFO 21476 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 4.045 seconds (JVM running for 5.018)
+2019-03-21 18:47:24.407  INFO 21476 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:47:24.409  INFO 21476 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 18:47:24.676  INFO 21476 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 18:54:35.111  INFO 1844 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-KPACNRR with PID 1844 (started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 18:54:35.112  INFO 1844 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-03-21 18:54:36.144  WARN 1844 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 18:54:36.899  INFO 1844 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 18:54:38.016  INFO 1844 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 18:54:38.704  INFO 1844 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:54:39.069  INFO 1844 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 4.712 seconds (JVM running for 5.516)
+2019-03-21 18:54:39.383  INFO 1844 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:54:39.388  INFO 1844 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 18:54:39.992  INFO 1844 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 18:55:49.175  INFO 3240 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-KPACNRR with PID 3240 (started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 18:55:49.177  INFO 3240 --- [main] com.huarui.mybatisplus.TestLogic         : No active profile set, falling back to default profiles: default
+2019-03-21 18:55:49.875  WARN 3240 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 18:55:50.564  INFO 3240 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 18:55:51.911  INFO 3240 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 18:55:52.594  INFO 3240 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:55:52.986  INFO 3240 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 4.526 seconds (JVM running for 5.383)
+2019-03-21 18:55:53.385  INFO 3240 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 18:55:53.388  INFO 3240 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 18:55:53.501  INFO 3240 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 19:08:25.846  INFO 20540 --- [main] com.huarui.mybatisplus.TestPlus          : Starting TestPlus on DESKTOP-KPACNRR with PID 20540 (started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 19:08:25.847  INFO 20540 --- [main] com.huarui.mybatisplus.TestPlus          : No active profile set, falling back to default profiles: default
+2019-03-21 19:08:26.623  WARN 20540 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 19:08:27.412  INFO 20540 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 19:08:28.496  INFO 20540 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 19:08:29.222  INFO 20540 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:08:29.642  INFO 20540 --- [main] com.huarui.mybatisplus.TestPlus          : Started TestPlus in 4.368 seconds (JVM running for 5.133)
+2019-03-21 19:08:30.112  INFO 20540 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:08:30.114  INFO 20540 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 19:08:30.306  INFO 20540 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 19:15:37.043  INFO 12576 --- [restartedMain] com.huarui.mybatisplus.Application       : Starting Application on DESKTOP-KPACNRR with PID 12576 (E:\java\springboot_superman\sb_mybatis_puls2.3\target\classes started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 19:15:37.046  INFO 12576 --- [restartedMain] com.huarui.mybatisplus.Application       : No active profile set, falling back to default profiles: default
+2019-03-21 19:15:37.210  INFO 12576 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-03-21 19:15:37.211  INFO 12576 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-03-21 19:15:38.086  WARN 12576 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 19:15:39.505  INFO 12576 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-03-21 19:15:39.587  INFO 12576 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-03-21 19:15:39.587  INFO 12576 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-03-21 19:15:39.601  INFO 12576 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\dev\jdk\jdk1.8.0_162_x64\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\windows\system32;E:\java\TortoiseSVN\bin;E:\java\VisualSVN Server\bin;E:\java\nodeJS\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_162_x64\bin;D:\python\Scripts\;D:\python\;C:\Users\test01\AppData\Local\Microsoft\WindowsApps;D:\python\chromedriver.exe;C:\Users\test01\AppData\Roaming\npm;;.]
+2019-03-21 19:15:39.711  INFO 12576 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-03-21 19:15:39.712  INFO 12576 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2500 ms
+2019-03-21 19:15:40.066  INFO 12576 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 19:15:40.955  INFO 12576 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 19:15:41.412  INFO 12576 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:15:41.706  INFO 12576 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-03-21 19:15:41.765  INFO 12576 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-21 19:15:41.768  INFO 12576 --- [restartedMain] com.huarui.mybatisplus.Application       : Started Application in 5.44 seconds (JVM running for 5.987)
+2019-03-21 19:16:14.329  INFO 10372 --- [restartedMain] com.huarui.mybatisplus.Application       : Starting Application on DESKTOP-KPACNRR with PID 10372 (E:\java\springboot_superman\sb_mybatis_puls2.3\target\classes started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 19:16:14.332  INFO 10372 --- [restartedMain] com.huarui.mybatisplus.Application       : No active profile set, falling back to default profiles: default
+2019-03-21 19:16:14.396  INFO 10372 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-03-21 19:16:14.397  INFO 10372 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-03-21 19:16:15.493  WARN 10372 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 19:16:16.457  INFO 10372 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-03-21 19:16:16.488  INFO 10372 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-03-21 19:16:16.489  INFO 10372 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-03-21 19:16:16.581  INFO 10372 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\dev\jdk\jdk1.8.0_162_x64\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\windows\system32;E:\java\TortoiseSVN\bin;E:\java\VisualSVN Server\bin;E:\java\nodeJS\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_162_x64\bin;D:\python\Scripts\;D:\python\;C:\Users\test01\AppData\Local\Microsoft\WindowsApps;D:\python\chromedriver.exe;C:\Users\test01\AppData\Roaming\npm;;.]
+2019-03-21 19:16:16.684  INFO 10372 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-03-21 19:16:16.686  INFO 10372 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2289 ms
+2019-03-21 19:16:27.006  INFO 10372 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 19:16:27.895  INFO 10372 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 19:16:28.331  INFO 10372 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:16:28.653  INFO 10372 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-03-21 19:16:28.727  INFO 10372 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-21 19:16:28.730  INFO 10372 --- [restartedMain] com.huarui.mybatisplus.Application       : Started Application in 15.044 seconds (JVM running for 15.495)
+2019-03-21 19:20:17.837  INFO 10372 --- [Thread-6] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:20:17.843  INFO 10372 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 19:20:17.861  INFO 10372 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 19:34:27.655  INFO 15468 --- [restartedMain] com.huarui.mybatisplus.Application       : Starting Application on DESKTOP-KPACNRR with PID 15468 (E:\java\springboot_superman\sb_mybatis_puls2.3\target\classes started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 19:34:27.658  INFO 15468 --- [restartedMain] com.huarui.mybatisplus.Application       : The following profiles are active: dev
+2019-03-21 19:34:27.800  INFO 15468 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-03-21 19:34:27.800  INFO 15468 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-03-21 19:34:28.862  WARN 15468 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 19:34:30.095  INFO 15468 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-03-21 19:34:30.205  INFO 15468 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-03-21 19:34:30.205  INFO 15468 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-03-21 19:34:30.220  INFO 15468 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\dev\jdk\jdk1.8.0_162_x64\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\windows\system32;E:\java\TortoiseSVN\bin;E:\java\VisualSVN Server\bin;E:\java\nodeJS\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_162_x64\bin;D:\python\Scripts\;D:\python\;C:\Users\test01\AppData\Local\Microsoft\WindowsApps;D:\python\chromedriver.exe;C:\Users\test01\AppData\Roaming\npm;;.]
+2019-03-21 19:34:30.324  INFO 15468 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-03-21 19:34:30.324  INFO 15468 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2524 ms
+2019-03-21 19:34:30.614  INFO 15468 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 19:34:31.585  INFO 15468 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 19:34:32.056  INFO 15468 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:34:32.378  INFO 15468 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-03-21 19:34:32.440  INFO 15468 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-21 19:34:32.443  INFO 15468 --- [restartedMain] com.huarui.mybatisplus.Application       : Started Application in 5.51 seconds (JVM running for 6.081)
+2019-03-21 19:34:41.816  INFO 21784 --- [restartedMain] com.huarui.mybatisplus.Application       : Starting Application on DESKTOP-KPACNRR with PID 21784 (E:\java\springboot_superman\sb_mybatis_puls2.3\target\classes started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 19:34:41.819  INFO 21784 --- [restartedMain] com.huarui.mybatisplus.Application       : The following profiles are active: dev
+2019-03-21 19:34:42.020  INFO 21784 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-03-21 19:34:42.020  INFO 21784 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-03-21 19:34:43.008  WARN 21784 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 19:34:44.048  INFO 21784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-03-21 19:34:44.138  INFO 21784 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-03-21 19:34:44.139  INFO 21784 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-03-21 19:34:44.151  INFO 21784 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\dev\jdk\jdk1.8.0_162_x64\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\windows\system32;E:\java\TortoiseSVN\bin;E:\java\VisualSVN Server\bin;E:\java\nodeJS\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_162_x64\bin;D:\python\Scripts\;D:\python\;C:\Users\test01\AppData\Local\Microsoft\WindowsApps;D:\python\chromedriver.exe;C:\Users\test01\AppData\Roaming\npm;;.]
+2019-03-21 19:34:44.253  INFO 21784 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-03-21 19:34:44.254  INFO 21784 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2234 ms
+2019-03-21 19:34:47.659  INFO 21784 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 19:34:48.565  INFO 21784 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 19:34:48.970  INFO 21784 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:34:49.335  INFO 21784 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-03-21 19:34:49.413  INFO 21784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-21 19:34:49.418  INFO 21784 --- [restartedMain] com.huarui.mybatisplus.Application       : Started Application in 8.266 seconds (JVM running for 8.823)
+2019-03-21 19:35:01.968  INFO 21372 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-KPACNRR with PID 21372 (started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 19:35:01.969  INFO 21372 --- [main] com.huarui.mybatisplus.TestLogic         : The following profiles are active: dev
+2019-03-21 19:35:02.892  WARN 21372 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 19:35:03.755  INFO 21372 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 19:35:04.823  INFO 21372 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 19:35:05.610  INFO 21372 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:35:06.095  INFO 21372 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 4.869 seconds (JVM running for 5.779)
+2019-03-21 19:35:06.678  INFO 21372 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:35:06.685  INFO 21372 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 19:35:07.019  INFO 21372 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 19:36:17.621  INFO 21784 --- [Thread-6] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:36:17.625  INFO 21784 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 19:36:17.639  INFO 21784 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-03-21 19:36:18.836  INFO 21784 --- [restartedMain] com.huarui.mybatisplus.Application       : Starting Application on DESKTOP-KPACNRR with PID 21784 (E:\java\springboot_superman\sb_mybatis_puls2.3\target\classes started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 19:36:18.837  INFO 21784 --- [restartedMain] com.huarui.mybatisplus.Application       : The following profiles are active: dev
+2019-03-21 19:36:18.906  INFO 16544 --- [main] com.huarui.mybatisplus.TestLogic         : Starting TestLogic on DESKTOP-KPACNRR with PID 16544 (started by test01 in E:\java\springboot_superman\sb_mybatis_puls2.3)
+2019-03-21 19:36:18.907  INFO 16544 --- [main] com.huarui.mybatisplus.TestLogic         : The following profiles are active: dev
+2019-03-21 19:36:20.411  WARN 16544 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 19:36:20.464  WARN 21784 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.huarui.mybatisplus.mapper.*]' package. Please check your configuration.
+2019-03-21 19:36:20.775  INFO 21784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-03-21 19:36:20.777  INFO 21784 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-03-21 19:36:20.777  INFO 21784 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-03-21 19:36:20.814  INFO 21784 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-03-21 19:36:20.814  INFO 21784 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1971 ms
+2019-03-21 19:36:20.985  INFO 21784 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2019-03-21 19:36:21.446  INFO 21784 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2019-03-21 19:36:21.833  INFO 21784 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:36:22.035  INFO 21784 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-03-21 19:36:22.061  INFO 21784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-21 19:36:22.062  INFO 21784 --- [restartedMain] com.huarui.mybatisplus.Application       : Started Application in 3.413 seconds (JVM running for 101.467)
+2019-03-21 19:36:22.079  INFO 21784 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-03-21 19:36:22.142  INFO 16544 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-03-21 19:36:23.293  INFO 16544 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-03-21 19:36:24.139  INFO 16544 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:36:24.674  INFO 16544 --- [main] com.huarui.mybatisplus.TestLogic         : Started TestLogic in 6.918 seconds (JVM running for 7.953)
+2019-03-21 19:36:25.128  INFO 16544 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-21 19:36:25.131  INFO 16544 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-03-21 19:36:25.689  INFO 16544 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

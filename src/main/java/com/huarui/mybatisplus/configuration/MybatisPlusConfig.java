@@ -43,7 +43,7 @@ public class MybatisPlusConfig {
     public PerformanceInterceptor performanceInterceptor () {
         PerformanceInterceptor p =  new PerformanceInterceptor ();
         p.setFormat(true);
-        p.setMaxTime(2);
+        p.setMaxTime(200);
         return p;
     }
 

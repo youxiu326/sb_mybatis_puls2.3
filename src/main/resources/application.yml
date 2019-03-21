@@ -4,6 +4,9 @@ server:
 
 #mysql
 spring:
+  profiles:
+    #spring boot application.propertiesæ–‡ä»¶ä¸­å¼•ç”¨maven profileèŠ‚ç‚¹çš„å€¼
+    active: dev # @profiles.active@
   datasource:
     url: jdbc:mysql://39.108.85.204:3306/mybatis_plus?useUnicode=true&characterEncoding=utf8
     username: root
@@ -12,38 +15,39 @@ spring:
 
 
 mybatis-plus:
-  # Èç¹ûÊÇ·ÅÔÚsrc/main/javaÄ¿Â¼ÏÂ classpath:/com/yourpackage/*/mapper/*Mapper.xml
-  # Èç¹ûÊÇ·ÅÔÚresourceÄ¿Â¼ classpath:/mapper/*Mapper.xml
+  # å¦‚æœæ˜¯æ”¾åœ¨src/main/javaç›®å½•ä¸‹ classpath:/com/yourpackage/*/mapper/*Mapper.xml
+  # å¦‚æœæ˜¯æ”¾åœ¨resourceç›®å½• classpath:/mapper/*Mapper.xml
   mapper-locations: classpath:/com/huarui/mybatisplus/mapper/*Mapper.xml
-  #ÊµÌåÉ¨Ãè£¬¶à¸öpackageÓÃ¶ººÅ»òÕß·ÖºÅ·Ö¸ô
+  #å®ä½“æ‰«æï¼Œå¤šä¸ªpackageç”¨é€—å·æˆ–è€…åˆ†å·åˆ†éš”
   typeAliasesPackage: com.huarui.mybatisplus.entity
   global-config:
-    #Ö÷¼üÀàĞÍ  0:"Êı¾İ¿âID×ÔÔö", 1:"ÓÃ»§ÊäÈëID",2:"È«¾ÖÎ¨Ò»ID (Êı×ÖÀàĞÍÎ¨Ò»ID)", 3:"È«¾ÖÎ¨Ò»ID UUID";
+    #ä¸»é”®ç±»å‹  0:"æ•°æ®åº“IDè‡ªå¢", 1:"ç”¨æˆ·è¾“å…¥ID",2:"å…¨å±€å”¯ä¸€ID (æ•°å­—ç±»å‹å”¯ä¸€ID)", 3:"å…¨å±€å”¯ä¸€ID UUID";
     id-type: 2
-    #×Ö¶Î²ßÂÔ 0:"ºöÂÔÅĞ¶Ï",1:"·Ç NULL ÅĞ¶Ï"),2:"·Ç¿ÕÅĞ¶Ï"
+    #å­—æ®µç­–ç•¥ 0:"å¿½ç•¥åˆ¤æ–­",1:"é NULL åˆ¤æ–­"),2:"éç©ºåˆ¤æ–­"
     field-strategy: 2
-    #ÍÕ·åÏÂ»®Ïß×ª»»
+    #é©¼å³°ä¸‹åˆ’çº¿è½¬æ¢
     db-column-underline: true
-    #mp2.3+ È«¾Ö±íÇ°×º mp_
+    #mp2.3+ å…¨å±€è¡¨å‰ç¼€ mp_
     table-prefix: tal_
-    #Ë¢ĞÂmapper µ÷ÊÔÉñÆ÷
+    #åˆ·æ–°mapper è°ƒè¯•ç¥å™¨
     #refresh-mapper: true
-    #Êı¾İ¿â´óĞ´ÏÂ»®Ïß×ª»»
+    #æ•°æ®åº“å¤§å†™ä¸‹åˆ’çº¿è½¬æ¢
     capital-mode: true
-    # SequenceĞòÁĞ½Ó¿ÚÊµÏÖÀàÅäÖÃ
+    # Sequenceåºåˆ—æ¥å£å®ç°ç±»é…ç½®
     key-generator: com.baomidou.mybatisplus.incrementer.OracleKeyGenerator
-    #Âß¼­É¾³ıÅäÖÃ£¨ÏÂÃæ3¸öÅäÖÃ£©
-    logic-delete-value: -1
-    logic-not-delete-value: 1
-    #×¢Èë×Ô¶¨ÒåSQL
-    sql-injector: com.huarui.mybatisplus.configuration.MySqlInjector
-    #×Ô¶¨ÒåÌî³ä²ßÂÔ½Ó¿ÚÊµÏÖ
+    #é€»è¾‘åˆ é™¤é…ç½®ï¼ˆä¸‹é¢3ä¸ªé…ç½®ï¼‰
+    logic-delete-value: -1    #åˆ é™¤çŠ¶æ€
+    logic-not-delete-value: 1 #æœªåˆ é™¤çŠ¶æ€
+    sql-injector: com.baomidou.mybatisplus.mapper.LogicSqlInjector
+    #æ³¨å…¥è‡ªå®šä¹‰SQL
+    #sql-injector: com.huarui.mybatisplus.configuration.MySqlInjector
+    #è‡ªå®šä¹‰å¡«å……ç­–ç•¥æ¥å£å®ç°
     meta-object-handler: com.huarui.mybatisplus.configuration.MyMetaObjectHandler
   configuration:
-    #ÅäÖÃ·µ»ØÊı¾İ¿â(columnÏÂ»®ÏßÃüÃû&&·µ»ØjavaÊµÌåÊÇÍÕ·åÃüÃû)£¬×Ô¶¯Æ¥ÅäÎŞĞèas£¨Ã»¿ªÆôÕâ¸ö£¬SQLĞèÒªĞ´as£º select user_id as userId£©
+    #é…ç½®è¿”å›æ•°æ®åº“(columnä¸‹åˆ’çº¿å‘½å&&è¿”å›javaå®ä½“æ˜¯é©¼å³°å‘½å)ï¼Œè‡ªåŠ¨åŒ¹é…æ— éœ€asï¼ˆæ²¡å¼€å¯è¿™ä¸ªï¼ŒSQLéœ€è¦å†™asï¼š select user_id as userIdï¼‰
     map-underscore-to-camel-case: true
     cache-enabled: false
-    #ÅäÖÃJdbcTypeForNull, oracleÊı¾İ¿â±ØĞëÅäÖÃ
+    #é…ç½®JdbcTypeForNull, oracleæ•°æ®åº“å¿…é¡»é…ç½®
     jdbc-type-for-null: 'null'
-    # ÅäÖÃslq´òÓ¡ÈÕÖ¾
+    # é…ç½®slqæ‰“å°æ—¥å¿—
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
